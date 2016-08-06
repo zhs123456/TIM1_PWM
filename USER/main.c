@@ -19,6 +19,7 @@ int main(void)
 		TIM_SetCompare1(TIM1,count);//实时改变PWM的占空比
 		count1++;
 		count1--;
+		count1++;
 	}
 }
 
